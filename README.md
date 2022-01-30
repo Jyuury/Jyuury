@@ -3,7 +3,7 @@
 <!--
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Atlas Solucoes em Tecnologias
+- 🔭 I’m currently working on Precato
 - 🌱 I’m currently learning Front-End development
 -->
 
